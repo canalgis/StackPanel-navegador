@@ -1,5 +1,5 @@
 # StackPanel-navegador
-Crear aplicación para navegar en Internet con StackPanel
+Crear aplicación para Navegar en Internet con StackPanel
 
 
 using System;
@@ -45,11 +45,6 @@ namespace App16
             }
         }
 
-
-
-
-
-
 <Page
     x:Class="App16.Page1"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
@@ -65,11 +60,6 @@ namespace App16
         <HyperlinkButton Content=" Go to FCA en Linea.unam.mx" NavigateUri="http://fcaenlinea.unam.mx/licenciaturas/informatica/" />
     </StackPanel>
 </Page>
-
-
-
-
-
 
 <Page
     x:Class="App16.Page2"
